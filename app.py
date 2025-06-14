@@ -22,7 +22,7 @@ with open('scaler.pkl','rb') as file:
 # streamlit app
 st.title("Customer Churn Prediction")
 
-st.write("This app uses a trained ANN model to predict customer churn."
+st.write("This app uses a trained ANN model to predict customer churn.")
 
 # User input
 geography=st.selectbox('Geography', onehot_encoder_geo.categories_[0])
