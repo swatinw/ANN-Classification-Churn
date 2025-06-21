@@ -1,6 +1,6 @@
 # ANN-Classification-Churn
 
-# 📉 Customer Churn Prediction App
+## 📉 Customer Churn Prediction App
 
 An AI-powered web app that predicts the likelihood of a customer leaving a bank based on personal and transaction details. Built using a deep learning model and deployed with Streamlit.
 
